@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Web Crawling**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Golang**
 
 - 💬 Ask me about **Advanced Data Structures and Algorithms,Web Crawling,Android.**
 
